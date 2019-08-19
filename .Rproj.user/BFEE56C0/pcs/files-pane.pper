@@ -1,0 +1,9 @@
+{
+    "path" : "~/fxtrading",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
